@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/PC/Desktop/DuAn1/DuAn1/src/Views/QLKhachHang.java</file>
-            <file>file:/C:/Users/PC/Desktop/DuAn1/DuAn1/src/Utils/JDBC.java</file>
-            <file>file:/C:/Users/PC/Desktop/DuAn1/DuAn1/src/Models/KhachHang.java</file>
-            <file>file:/C:/Users/PC/Desktop/DuAn1/DuAn1/src/Services/KhachHangServices.java</file>
+            <file>file:/D:/ky4%20b2/DuAn1/DuAn1/src/Frame/FrameBanHang.java</file>
+            <file>file:/D:/ky4%20b2/DuAn1/DuAn1/src/Frame/DangNhap.java</file>
+            <file>file:/D:/ky4%20b2/DuAn1/DuAn1/src/Service/QLBHService.java</file>
+            <file>file:/D:/ky4%20b2/DuAn1/DuAn1/src/Frame/QLKhachHang.java</file>
+            <file>file:/D:/ky4%20b2/DuAn1/DuAn1/src/Frame/GiaoDien.java</file>
         </group>
     </open-files>
 </project-private>
